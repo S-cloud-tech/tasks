@@ -1,5 +1,5 @@
 package com.scloudtech.tasks.domain.entities;
 
-public enum TaskStautus {
+public enum TaskStatus {
     OPEN, CLOSED
 }
